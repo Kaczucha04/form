@@ -14,7 +14,7 @@ NodeJS:  <a href="https://nodejs.org/en/download/">https://nodejs.org/en/downloa
 XAMPP:  <a href="https://www.apachefriends.org/pl/index.html">https://www.apachefriends.org/pl/index.html</a> <br>
 
 Aby móc pracować z projektem, konieczne jest uruchomienie modułów MySQL oraz Apache w panelu XAMPP. Upewnij się, że moduły zostały poprawnie uruchomione i są gotowe do przetwarzania danych. Pamiętaj, że poprawne działanie modułów jest kluczowe dla prawidłowego funkcjonowania projektu.<br>
-<img src="image2.png" align="center" alt="zdjęcie podklądowe panelu XAMPP"><br>
+<img src="xampp.png" align="center" alt="zdjęcie xamppa"><br>
 
 Aby kontynuować, należy utworzyć bazę danych o nazwie "users" oraz zaimportować plik user.sql znajdujący się w katalogu "form". W ten sposób zostaną wprowadzone wymagane schematy i struktury do bazy danych. Upewnij się, że proces importowania przebiegnie pomyślnie przed przystąpieniem do kolejnych etapów projektu.
 
